@@ -3,6 +3,7 @@ TCCGerenciamentoDeEstoque/src/test/java/br/com/projetoTCC/
 TCCGerenciamentoDeEstoque/src/main/resources/
 HELP.md
 target/
+src/main/teste.txt
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
